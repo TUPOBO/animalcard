@@ -1,0 +1,44 @@
+.card {
+	font-family: "宋体","sans-serif"
+	border: 1px;
+	width: 320px;
+	box-shadow: 5px 5px 20px #ccc;
+	border-radius: 5px;
+}
+
+.anecdote {
+	font-style: italic;
+}
+
+.border {
+	border: 1px;
+	width: 260px;
+	margin: 5px;
+	padding: 5px;
+	text-align: left;
+}
+
+.information {
+    border: 1px solid #ccc;
+    width: 300px;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+img {
+	width: 300px;
+	margin: 5px;
+	padding: 5px;
+	cursor: pointer;
+	border-radius: 5px;
+	text-rendering: center;
+}
+
+ul {
+	list-style-type:none;
+}
+
+span {
+	font-weight: bold;
+}
